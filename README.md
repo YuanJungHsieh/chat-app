@@ -1,5 +1,5 @@
 # chat-app
-### 使用 Node.js, Express, Socket,io 實作即時聊天網站
+### 使用 Node.js, Express, Socket.io 實作即時聊天網站
 
 #### 功能：
 - 建立使用者名稱
